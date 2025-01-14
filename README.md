@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @faizan<br>👀 I’m fascinated by artificial intelligence, machine learning, automation, biotechnology, web development, philosophy, and neuroscience.<br>🌱 I’m currently diving deep into Python, building automation tools.<br>💞️ I’m eager to collaborate on AI-powered tools, chatbot development, automation projects, educational technology, or anything that pushes the boundaries of innovation.<br>📫 How to reach me: [peerzadafayzan@outlook.com]<br>Have a look at my website: [https://sphereoftech360.in/]⚡ Fun fact: I do blogging and sometimes create web based games!
+👋 Hi, I’m @faizan<br>👀 I’m fascinated by artificial intelligence, machine learning, automation, biotechnology, web development, philosophy, and neuroscience.<br>🌱 I’m currently diving deep into Python, building automation tools.<br>💞️ I’m eager to collaborate on AI-powered tools, chatbot development, automation projects, educational technology, or anything that pushes the boundaries of innovation.<br>📫 How to reach me: [peerzadafayzan@outlook.com]<br>Have a look at my website: [https://sphereoftech360.in/]⚡<br> Fun fact: I do blogging and sometimes create web based games!
 
 
 ## 🌐 Socials:
