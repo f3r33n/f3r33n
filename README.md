@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m @faizan<br>👀 i um code sometimes and eveything works!
+👋 Hi, I’m @faizan<br>👀 i make things.
+sometimes they even work. I have  python, linux & unfinished ideas.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fereen__) 
 
