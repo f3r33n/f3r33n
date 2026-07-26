@@ -84,13 +84,11 @@
     nothing added to commit yet :)
 
 
-    
-    >   "Somewhere between biology and code,
-    >  " I have Python, Linux & unfinished ideas."
+    > "Somewhere between biology and code".
+    >  I have Python, Linux & unfinished ideas."
 
-                                      — f3r33n"
-
-                                    
+                                      — f3r33n
+```
 
 ---
 
