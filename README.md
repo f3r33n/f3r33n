@@ -11,29 +11,24 @@
 ┌──(f3r33n㉿github)-[~]
 └─$ neofetch
 
-              .--.                 f3r33n@github
-             |o_o |                ─────────────────────────────
-             |:_/ |                USER       → Faizan
-            //   \ \               OS         → Linux Mint
-           (|     | )              HOST       → GitHub
-          /'\_   _/`\              SHELL      → Bash
-          \___)=(___/              EDITOR     → VS Code
-                                   FIELD      → Biotechnology
-                                   TRACK      → AI Builder @ MirAI
-                                   LANGUAGES  → Python, JavaScript, HTML
-                                   TOOLS      → Git, GitHub, Linux
-                                   LEARNING   → AI, BioPython, NumPy, Pandas
-                                   INTERESTS  → AI × Biology × Technology
-                                   HOBBIES    → Building, Learning, Football
-                                   LOCATION   → Kashmir
-                                   STATUS     → Building...
-                                   UPTIME     → 21 years
+              .--.                USER ......... Faizan (f3r33n)
+             |o_o |               OS ........... Linux Mint / Arch
+             |:_/ |               HOST ......... GitHub (MirAI Summer Internship)
+            //   \ \              KERNEL ....... MirAI B.Tech Student (Biotechnology)
+           (|     | )             UPTIME ....... 21 years
+          /'\_   _/`\             SHELL ........ Bash
+          \___)=(___/             LANGUAGES .... Python, C++, JavaScript
+                                  TOOLS ........ Git, Linux, VS Code, AI/ML Frameworks
+                                  FIELD ........ Biotech × Artificial Intelligence
+                                  HOBBIES ...... AI Engineering, Gaming, Robotics
+                                  LOCATION ..... Kashmir
+                                  STATUS ....... Building & Experimenting...
 
 ┌──(f3r33n㉿github)-[~]
 └─$ whoami
 
-Faizan — Biotechnology student exploring AI, software
-and the strange territory where biology meets code.
+Faizan — Biotechnology student working at the intersection of AI,
+software development, and computational systems.
 
 ┌──(f3r33n㉿github)-[~]
 └─$ cat philosophy.txt
@@ -46,42 +41,15 @@ and the strange territory where biology meets code.
 ┌──(f3r33n㉿github)-[~]
 └─$ ls ./current_focus
 
-AI/
-Python/
-BioPython/
-NumPy/
-Pandas/
-Biotechnology/
-unfinished_ideas/
+AI_Engineering/   Python/   Bioinformatics/   Linux_Security/
 
 ┌──(f3r33n㉿github)-[~]
 └─$ echo $MISSION
 
-"Turn curiosity into things that actually work."
+"Turn curiosity and code into systems that work."
 
 ┌──(f3r33n㉿github)-[~]
 └─$ █
-```
-
-## `> ./about_me.sh`
-
-```text
-[+] Name       : Faizan
-[+] Alias      : f3r33n
-[+] Background : Biotechnology
-[+] Environment: Linux
-[+] Building   : AI-powered tools & experiments
-[+] Philosophy : Learn → Build → Break → Debug → Repeat
-```
-
-I make things.
-
-Usually with **Python, Linux, AI and an unreasonable number of unfinished ideas.**
-
-My background is in **Biotechnology**, but somewhere along the way I wandered
-into programming, Linux and artificial intelligence — and decided to stay.
-
----
 
 ## `> ls ./tech_stack`
 
